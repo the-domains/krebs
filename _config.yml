@@ -1,0 +1,14 @@
+layout_spectrum: 0.8181474837474525
+typography_spectrum: 0.37616145447827876
+color:
+  brandStrength: 0.3839022826869041
+  lightness: 0.7461086784023792
+  saturation: 0.17593041877262294
+  rhythmicContrast: 0.01725328783504665
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: Krebs
